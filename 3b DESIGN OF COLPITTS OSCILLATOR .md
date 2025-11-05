@@ -20,7 +20,8 @@
 <img width="486" height="684" alt="image" src="https://github.com/user-attachments/assets/98b204f0-c180-44b9-ade5-7657ea20ba39" />
 
 # Sample images 
-![WhatsApp Image 2025-11-05 at 12 01 58_ea848b39](https://github.com/user-attachments/assets/6a927d44-b971-4d8f-a73b-103f195cc6f7)
+![WhatsApp Image 2025-11-05 at 12 01 58_5bef43d9](https://github.com/user-attachments/assets/a36c9b28-eac3-44db-8ddb-0e57d85bb592)
+
 
 # Result
 
