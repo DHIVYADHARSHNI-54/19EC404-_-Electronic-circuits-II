@@ -26,5 +26,5 @@
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:** 49.9Hz 
+- **(ii) Practical Frequency:** 1.3*10^-3Hz
