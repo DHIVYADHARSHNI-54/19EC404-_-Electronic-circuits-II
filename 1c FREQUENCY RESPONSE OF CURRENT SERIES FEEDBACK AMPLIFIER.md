@@ -7,21 +7,22 @@
 <img width="724" height="1066" alt="image" src="https://github.com/user-attachments/assets/b3992104-4c58-4976-b6bf-35fc8e647d05" />
 
 # Circuit Diagram 
+<img width="454" height="749" alt="image" src="https://github.com/user-attachments/assets/7e867f35-cb75-41d2-9d3b-3e11572ed308" />
+
 # Without Feedback:
 <img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/aaa574ca-68cc-4744-b0af-cdc45619c37c" />
 
 # With Feedback:
 <img width="533" height="283" alt="image" src="https://github.com/user-attachments/assets/d423c0cc-853d-4fb0-8316-c17b10cf49c8" />
 
-
 # Tabulation
-
+<img width="525" height="721" alt="image" src="https://github.com/user-attachments/assets/d6251a3a-3458-45be-9ae2-7a7c9d93139d" />
 
 # Graph
-
+<img width="571" height="764" alt="image" src="https://github.com/user-attachments/assets/7da2da1c-1bc6-4d1a-a605-d84032a39216" />
 
 # Sample images 
-
+![WhatsApp Image 2025-11-05 at 12 01 59_331555a0](https://github.com/user-attachments/assets/d7e9bf1e-62e3-449d-8cf3-ffab9954a920)
 
 ### **Result**
 
