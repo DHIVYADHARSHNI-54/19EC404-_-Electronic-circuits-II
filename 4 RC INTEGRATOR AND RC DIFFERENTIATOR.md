@@ -31,7 +31,7 @@
 
 # Sample images 
 
-![WhatsApp Image 2025-11-05 at 12 01 59_cc266b08](https://github.com/user-attachments/assets/45b027b7-18ac-4934-8996-ccf2d49e576c)
+![WhatsApp Image 2025-11-05 at 12 01 58_11c34e70](https://github.com/user-attachments/assets/a9164375-f1e4-44c2-b31f-996706f536be)
 
 
 # Result
