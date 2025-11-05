@@ -8,25 +8,19 @@
 <img width="458" height="708" alt="image" src="https://github.com/user-attachments/assets/c2a67df9-a32b-40aa-8206-baa2208282c0" />
 <img width="415" height="78" alt="image" src="https://github.com/user-attachments/assets/4038a170-c8ee-47cb-9ead-3797252869fc" />
 
-
-
 # Circuit Diagram 
 <img width="514" height="273" alt="image" src="https://github.com/user-attachments/assets/626a6c59-d3af-497e-bd54-8c02c446e652" />
 
+<img width="679" height="623" alt="image" src="https://github.com/user-attachments/assets/96a99f06-c4bd-4528-a7a3-062a2bd0e49f" />
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
-
-
+<img width="620" height="636" alt="image" src="https://github.com/user-attachments/assets/f52a3737-1672-43d6-bd54-8019a5def6a2" />
 
 # Graph
-
+<img width="642" height="766" alt="image" src="https://github.com/user-attachments/assets/d5185248-57e8-4ef0-97e0-2124548c15d2" />
 
 # Sample images 
-
-
+![WhatsApp Image 2025-11-05 at 12 01 58_ebd77f61](https://github.com/user-attachments/assets/9f3dc407-e814-4cc3-b428-1aa50fa8c99c)
 
 ## Result
 
