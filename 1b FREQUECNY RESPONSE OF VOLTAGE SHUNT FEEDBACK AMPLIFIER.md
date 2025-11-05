@@ -25,7 +25,7 @@
 
 
 # Sample images 
-![WhatsApp Image 2025-11-05 at 12 01 58_911d2670](https://github.com/user-attachments/assets/cf1872b4-e816-45ac-a950-fb196df487e7)
+![WhatsApp Image 2025-11-05 at 12 01 59_9ccdf8d3](https://github.com/user-attachments/assets/1dbf8608-14dd-4248-b203-f1a77b4e6ecf)
 
 
 ### **Result**
