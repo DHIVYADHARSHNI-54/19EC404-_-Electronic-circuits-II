@@ -13,12 +13,12 @@
 
 
 # Tabulation
-<img width="803" height="714" alt="image" src="https://github.com/user-attachments/assets/b6917468-46d1-4a8d-a21b-fda3fd5c06fd" />
+<img width="575" height="525" alt="image" src="https://github.com/user-attachments/assets/c381be4a-10bb-4e62-9d9c-cb63bc56772b" />
 
 
 # Graph
-<img width="536" height="748" alt="image" src="https://github.com/user-attachments/assets/2fbeeae0-e0cb-4d68-9642-93be0c834ef5" />
-<img width="516" height="758" alt="image" src="https://github.com/user-attachments/assets/e38e3696-449b-4bf0-9f0e-c26262fef5d8" />
+<img width="521" height="745" alt="image" src="https://github.com/user-attachments/assets/c46aafdf-c847-42ec-9c23-292173ee9438" />
+<img width="541" height="715" alt="image" src="https://github.com/user-attachments/assets/0c6cf88a-cdad-41d3-8b47-a1bb0c2ec728" />
 
 
 # Sample images 
